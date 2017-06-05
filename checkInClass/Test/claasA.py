@@ -1,0 +1,2 @@
+def printM():
+    print "M"
