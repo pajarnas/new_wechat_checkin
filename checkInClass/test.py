@@ -11,7 +11,9 @@ class TimerDemo():
          self.t.start()
 
 if __name__ == '__main__':
-    print 'the other dont know it updated first'
+
+    print 'ok iknow'
+
     while(True):
         t.run()
 
