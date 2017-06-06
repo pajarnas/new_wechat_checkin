@@ -12,8 +12,6 @@ class TimerDemo():
 
 if __name__ == '__main__':
 
-    print 'third'
-
     while(True):
         t.run()
 
