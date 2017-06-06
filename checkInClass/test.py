@@ -11,7 +11,7 @@ class TimerDemo():
          self.t.start()
 
 if __name__ == '__main__':
-    print 'i just update null and fourth,then ia m fifth'
+    print 'update and push first'
     while(True):
         t.run()
 
