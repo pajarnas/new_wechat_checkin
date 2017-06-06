@@ -13,7 +13,7 @@ class TimerDemo():
 if __name__ == '__main__':
 
     print 'update by right'
-
+	print 'update by right'	
     while(True):
         t.run()
 
