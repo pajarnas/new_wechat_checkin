@@ -11,7 +11,7 @@ class TimerDemo():
          self.t.start()
 
 if __name__ == '__main__':
-    t = TimerDemo()
+    print 'hello first col 23'
     while(True):
         t.run()
 
