@@ -11,7 +11,9 @@ class TimerDemo():
          self.t.start()
 
 if __name__ == '__main__':
-    print 'second by ~'
+
+    print 'third'
+
     while(True):
         t.run()
 
